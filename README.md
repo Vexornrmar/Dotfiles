@@ -1,3 +1,4 @@
 # .dotfiles
-My dotfiles/n
+My dotfiles
+
 TODO: make it look nice
