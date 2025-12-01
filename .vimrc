@@ -103,3 +103,5 @@ noremap Х {
 noremap ж ;
 noremap ч x
 noremap Ч X
+noremap у e
+noremap У E
