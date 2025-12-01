@@ -1,0 +1,9 @@
+font-family = CaskaydiaMono Nerd Font
+font-size = 14
+#theme = nord-light
+theme = nord
+#theme = everforest-dark-medium
+#theme = Tomorrow Night Blue
+#background-opacity = 0.75
+cursor-style = block
+gtk-titlebar = false
